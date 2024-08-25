@@ -1,2 +1,3 @@
 # Portfolio - Chithira Raj
-This portfolio showcases all the Data Science and Data Analysis projects I've completed for academic purposes, self-learning, and personal interests, along with my certifications.
+
+This portfolio highlights the Data Science and Data Analysis projects I've worked on for academic, self-directed learning, and personal exploration, as well as the certifications I've earned.
