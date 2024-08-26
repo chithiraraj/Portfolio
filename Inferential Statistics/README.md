@@ -1,2 +1,2 @@
 # Objective
-Dental implant data: The hardness of metal implants in dental cavities depends on multiple factors, such as the method of implant, the temperature at which the metal is treated, the alloy used as well as the dentists who may favor one method above another and may work better in his/her favorite method. The response is the variable of interest
+Analyze the datasets provided and use the concepts of Inferential Statistics to solve business problems and answer specific questions - insights on stone suitability for printing, the effectiveness of a fitness program, and the impact of dentists and implant methods on metal implant hardness - to enable data-driven decision-making and operational improvements.
