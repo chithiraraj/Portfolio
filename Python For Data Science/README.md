@@ -1,2 +1,2 @@
 # Objective
-Austo Motor Company is a leading car manufacturer specializing in SUV, Sedan, and Hatchback models. In its recent board meeting, concerns were raised by the members on the efficiency of the marketing campaign currently being used. Perform the data analysis to find answers to these questions that will help the company to improve the business.
+Performing exploratory data analysis of the dataset to identify the variables that drive the sales of a car company - AUSTO; Identify and understand patterns within the data, detect anomalous events, and find interesting relations among the variables to create customer profiles. Extract actionable insights for the brand 'AUSTO' to ensure greater sustainability in the US automobile market.
